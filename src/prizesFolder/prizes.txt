@@ -1,0 +1,8 @@
+ €1000, 4, Apple
+ €10000, 5, Grape
+ Trip to Donegal, 4, Pear
+ Trip to Carribbean, 5, Banana
+ One week in Lanzarote, 4, Plum
+ Ten Thousand Lottery Tickets, 5, Peach
+ €1000000, 6, Tangerine
+ €50000 a year for life, 6, Blueberry
